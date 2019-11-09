@@ -14,5 +14,5 @@ $ npx react-native start
 ```
 run in device...
 ```
-$ npx react-native start
+$ npx react-native run-android
 ```
